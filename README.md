@@ -1,0 +1,2 @@
+# lect
+lecture of game 
